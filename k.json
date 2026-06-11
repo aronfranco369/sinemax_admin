@@ -1,0 +1,2010 @@
+{
+"version": 1,
+"media": [
+{
+"title": "Nyara",
+"type": "movie",
+"description": "Kundi la wahalifu linamteka nyara mtoto wa kiongozi mkuu wa serikali. Polisi jasiri wanaanza msako mkali usiku na mchana ili kumuokoa mtoto huyo. Hali inakuwa ya hatari sana wakati njama za usaliti zinapoanza kufichuka miongoni mwao. Ni filamu yenye mapigano makali na hisia za kusisimua sana.",
+"poster_url": "https://nawgqawbwmfvhywfvoke.supabase.co/storage/v1/object/public/posters/poster1.jpg",
+"country": "tanzania",
+"year": 2021,
+"dj": "Afro",
+"genres": [
+"Action",
+"Crime",
+"Thriller"
+],
+"tags": [
+"blockbuster",
+"popular"
+],
+"created_at": "2025-06-01T08:00:00Z",
+"view_count": 450,
+"download_count": 412,
+"files": [
+{
+"label": "Nyara - Part 1",
+"season": null,
+"episode_number": 1,
+"download_url": "https://www.w3schools.com/html/mov_bbb.mp4"
+},
+{
+"label": "Nyara - Part 2",
+"season": null,
+"episode_number": 2,
+"download_url": "https://www.w3schools.com/html/mov_bbb.mp4"
+}
+]
+},
+{
+"title": "Bongoland",
+"type": "movie",
+"description": "Filamu hii inahusu kijana wa Kitanzania anayeishi nchini Marekani bila vibali halali vya kuishi. Anakabiliwa na changamoto kubwa za kiuchumi na kijamii huku akijaribu kutafuta maisha bora. Hatimaye, anaamua kurudi nyumbani Tanzania kujenga maisha yake upya. Ni hadithi ya kweli inayofikirisha kuhusu ndoto za ughaibuni.",
+"poster_url": "https://nawgqawbwmfvhywfvoke.supabase.co/storage/v1/object/public/posters/poster2.jpg",
+"country": "tanzania",
+"year": 2013,
+"dj": "Ally",
+"genres": [
+"Drama"
+],
+"tags": [
+"classic",
+"throwback"
+],
+"created_at": "2025-06-08T11:15:22Z",
+"view_count": 12,
+"download_count": 5,
+"files": [
+{
+"label": "Full Movie",
+"season": null,
+"episode_number": 1,
+"download_url": "https://www.w3schools.com/html/mov_bbb.mp4"
+}
+]
+},
+{
+"title": "Going Bongo",
+"type": "movie",
+"description": "Daktari mchanga kutoka nchini Marekani anajikuta akifanya kazi katika hospitali ya umma nchini Tanzania. Anakumbana na mazingira magumu na ukosefu wa vifaa vya kisasa vya matibabu. Katika safari yake hiyo, anajifunza maana halisi ya upendo na ubinadamu kutoka kwa wenyeji. Hii ni vichekesho vya kuvutia na vilivyojaa mafunzo.",
+"poster_url": "https://nawgqawbwmfvhywfvoke.supabase.co/storage/v1/object/public/posters/poster3.jpg",
+"country": "tanzania",
+"year": 2022,
+"dj": "Banza",
+"genres": [
+"Comedy",
+"Drama"
+],
+"tags": [
+"feel good"
+],
+"created_at": "2025-06-15T14:30:45Z",
+"view_count": 85,
+"download_count": 62,
+"files": [
+{
+"label": "Full Movie",
+"season": null,
+"episode_number": 1,
+"download_url": "https://www.w3schools.com/html/mov_bbb.mp4"
+}
+]
+},
+{
+"title": "Kiumeni",
+"type": "movie",
+"description": "Kijana kutoka mazingira ya kitajiri anakutana na msichana anayeishi katika uswahilini jijini Dar es Salaam. Licha ya tofauti zao za kimaisha, wanajikuta wakiingia kwenye uhusiano mkali wa kimapenzi. Hata hivyo, marafiki na familia zao wanapinga vikali uhusiano huo kutokana na matabaka. Watalazimika kupambana kulinda penzi lao dhidi ya dhoruba za jamii.",
+"poster_url": "https://nawgqawbwmfvhywfvoke.supabase.co/storage/v1/object/public/posters/poster4.jpg",
+"country": "tanzania",
+"year": 2023,
+"dj": "Black",
+"genres": [
+"Comedy",
+"Romance"
+],
+"tags": [
+"hidden gem",
+"popular"
+],
+"created_at": "2025-06-22T17:45:10Z",
+"view_count": 123,
+"download_count": 90,
+"files": [
+{
+"label": "Full Movie",
+"season": null,
+"episode_number": 1,
+"download_url": "https://www.w3schools.com/html/mov_bbb.mp4"
+}
+]
+},
+{
+"title": "Mzee wa Swagga",
+"type": "movie",
+"description": "Mzee mmoja maarufu mtaani anaamua kubadilisha mtindo wake wa maisha na kuanza kuvaa kama vijana wa kisasa. Jambo hili linazua mshangao mkubwa na vichekesho vingi miongoni mwa majirani zake. Licha ya kejeli za watu, anaendelea na msimamo wake wa kufurahia maisha bila kujali umri wake. Ni filamu ya vichekesho itakayokuvunja mbavu mwanzo hadi mwisho.",
+"poster_url": "https://nawgqawbwmfvhywfvoke.supabase.co/storage/v1/object/public/posters/poster5.jpg",
+"country": "tanzania",
+"year": 2021,
+"dj": "Carlos",
+"genres": [
+"Comedy"
+],
+"tags": [
+"fan favorite"
+],
+"created_at": "2025-06-29T20:50:35Z",
+"view_count": 210,
+"download_count": 180,
+"files": [
+{
+"label": "Full Movie",
+"season": null,
+"episode_number": 1,
+"download_url": "https://www.w3schools.com/html/mov_bbb.mp4"
+}
+]
+},
+{
+"title": "Siri ya Mtungi",
+"type": "series",
+"description": "Maisha ya Cheche na familia yake yanajaa migogoro ya siri na uaminifu katika mitaa ya Bagamoyo. Kila mhusika anakabiliwa na changamoto za afya, mapenzi na tamaa za kimaisha. Ustawi wa familia yao upo hatarini wakati siri nzito za zamani zinapoanza kufichuka wazi. Hii ni drama ya Kitanzania inayofundisha maadili na malezi bora.",
+"poster_url": "https://nawgqawbwmfvhywfvoke.supabase.co/storage/v1/object/public/posters/poster6.jpg",
+"country": "tanzania",
+"year": 2021,
+"dj": "Choka",
+"genres": [
+"Drama",
+"Family"
+],
+"tags": [
+"classic",
+"top rated"
+],
+"created_at": "2025-07-06T09:12:01Z",
+"view_count": 38,
+"download_count": 21,
+"files": [
+{
+"label": "Episode 1 - Maisha ya Cheche",
+"season": 1,
+"episode_number": 1,
+"download_url": "https://www.w3schools.com/html/mov_bbb.mp4"
+},
+{
+"label": "Episode 2 - Siri Zafichuka",
+"season": 1,
+"episode_number": 2,
+"download_url": "https://www.w3schools.com/html/mov_bbb.mp4"
+},
+{
+"label": "Episode 3 - Part A",
+"season": 1,
+"episode_number": 3,
+"download_url": "https://www.w3schools.com/html/mov_bbb.mp4"
+},
+{
+"label": "Episode 3 - Part B",
+"season": 1,
+"episode_number": 3,
+"download_url": "https://www.w3schools.com/html/mov_bbb.mp4"
+},
+{
+"label": "Episode 4 - Ukweli Mtupu",
+"season": 1,
+"episode_number": 4,
+"download_url": "https://www.w3schools.com/html/mov_bbb.mp4"
+}
+]
+},
+{
+"title": "Kapuni",
+"type": "series",
+"description": "Kapuni inaleta mchanganyiko wa mapenzi, usaliti na tamaa ya madaraka katika tasnia ya sanaa. Wahusika mbalimbali wanapigania nafasi za juu huku wakitumia mbinu chafu za chini ya kapeti. Uhusiano wa kifamilia unajaribiwa vikali wakati maslahi binafsi yanapotangulizwa mbele. Je, ukweli utakaa kapuni milele au utajulikana kwa wote?",
+"poster_url": "https://nawgqawbwmfvhywfvoke.supabase.co/storage/v1/object/public/posters/poster7.jpg",
+"country": "tanzania",
+"year": 2022,
+"dj": "J4",
+"genres": [
+"Drama",
+"Romance"
+],
+"tags": [
+"binge worthy",
+"popular"
+],
+"created_at": "2025-07-13T10:25:14Z",
+"view_count": 488,
+"download_count": 475,
+"files": [
+{
+"label": "Episode 1 - Mwanzo Mpya",
+"season": 1,
+"episode_number": 1,
+"download_url": "https://www.w3schools.com/html/mov_bbb.mp4"
+},
+{
+"label": "Episode 2 - Chuki za Ndani",
+"season": 1,
+"episode_number": 2,
+"download_url": "https://www.w3schools.com/html/mov_bbb.mp4"
+},
+{
+"label": "Episode 3 - Siri ya Familia",
+"season": 1,
+"episode_number": 3,
+"download_url": "https://www.w3schools.com/html/mov_bbb.mp4"
+},
+{
+"label": "Episode 4 - Maamuzi Mazito",
+"season": 1,
+"episode_number": 4,
+"download_url": "https://www.w3schools.com/html/mov_bbb.mp4"
+},
+{
+"label": "Episode 1 - Mgogoro Mpya",
+"season": 2,
+"episode_number": 1,
+"download_url": "https://www.w3schools.com/html/mov_bbb.mp4"
+},
+{
+"label": "Episode 2 - Kulipa Kisasi",
+"season": 2,
+"episode_number": 2,
+"download_url": "https://www.w3schools.com/html/mov_bbb.mp4"
+},
+{
+"label": "Episode 3 - Ukweli Katika Nuru",
+"season": 2,
+"episode_number": 3,
+"download_url": "https://www.w3schools.com/html/mov_bbb.mp4"
+},
+{
+"label": "Episode 4 - Mwisho wa Safari",
+"season": 2,
+"episode_number": 4,
+"download_url": "https://www.w3schools.com/html/mov_bbb.mp4"
+}
+]
+},
+{
+"title": "Huba",
+"type": "series",
+"description": "Hadithi inahusu migogoro mikubwa ya kimapenzi na kifamilia kati ya matajiri na maskini nchini Tanzania. Siri nzito za biashara haramu na usaliti zinatishia kuvunja ndoa nyingi mtaani. Mapenzi ya kweli yanajaribiwa pale ambapo pesa na nguvu vinapotawala maamuzi ya wahusika wakuu. Huu ni mfululizo unaopendwa sana kwa visa vyake vya kusisimua kila wiki.",
+"poster_url": "https://nawgqawbwmfvhywfvoke.supabase.co/storage/v1/object/public/posters/poster8.jpg",
+"country": "tanzania",
+"year": 2023,
+"dj": "Juma Khan",
+"genres": [
+"Drama",
+"Romance"
+],
+"tags": [
+"trending",
+"must watch"
+],
+"created_at": "2025-07-20T12:35:45Z",
+"view_count": 22,
+"download_count": 10,
+"files": [
+{
+"label": "Episode 1 - Ahadi ya Upendo",
+"season": 1,
+"episode_number": 1,
+"download_url": "https://www.w3schools.com/html/mov_bbb.mp4"
+},
+{
+"label": "Episode 2 - Kisasi Kitamu",
+"season": 1,
+"episode_number": 2,
+"download_url": "https://www.w3schools.com/html/mov_bbb.mp4"
+},
+{
+"label": "Episode 3 - Vikwazo vya Maisha",
+"season": 1,
+"episode_number": 3,
+"download_url": "https://www.w3schools.com/html/mov_bbb.mp4"
+},
+{
+"label": "Episode 4 - Hatima ya Huba",
+"season": 1,
+"episode_number": 4,
+"download_url": "https://www.w3schools.com/html/mov_bbb.mp4"
+}
+]
+},
+{
+"title": "Jua Kali",
+"type": "series",
+"description": "Mfululizo huu unaonyesha maisha halisi ya kila siku ya wakazi wa mji mkuu wakipambana na hali ngumu ya kiuchumi. Mapenzi, chuki, na tamaa ya mafanikio ya haraka vinasababisha migogoro isiyoisha kati ya familia mbili pinzani. Kila mtu anajaribu kulinda maslahi yake kwa gharama yoyote ile, hata kama ni kwa kusaliti wengine. Ni drama ya kusisimua inayoteka hisia za watazamaji wengi hivi sasa.",
+"poster_url": "https://nawgqawbwmfvhywfvoke.supabase.co/storage/v1/object/public/posters/poster9.jpg",
+"country": "tanzania",
+"year": 2024,
+"dj": "Kingononga",
+"genres": [
+"Drama"
+],
+"tags": [
+"binge worthy",
+"trending",
+"fan favorite"
+],
+"created_at": "2025-07-27T15:40:59Z",
+"view_count": 54,
+"download_count": 30,
+"files": [
+{
+"label": "Episode 1 - Chini ya Jua Kali",
+"season": 1,
+"episode_number": 1,
+"download_url": "https://www.w3schools.com/html/mov_bbb.mp4"
+},
+{
+"label": "Episode 2 - Jasho na Damu",
+"season": 1,
+"episode_number": 2,
+"download_url": "https://www.w3schools.com/html/mov_bbb.mp4"
+},
+{
+"label": "Episode 3 - Majaribu ya Maisha",
+"season": 1,
+"episode_number": 3,
+"download_url": "https://www.w3schools.com/html/mov_bbb.mp4"
+},
+{
+"label": "Episode 4 - Ukweli Unadhihirika",
+"season": 1,
+"episode_number": 4,
+"download_url": "https://www.w3schools.com/html/mov_bbb.mp4"
+}
+]
+},
+{
+"title": "Mizani",
+"type": "series",
+"description": "Kijana mmoja anajikuta katikati ya mapambano ya kisheria na kulinda haki za wanyonge dhidi ya matajiri dhalimu. Sheria na maadili vinapimwa pale ambapo rushwa inapojaribu kupotosha ukweli wa mambo. Maisha yake yanakuwa hatarini baada ya kugundua mtandao mkubwa wa uhalifu serikalini. Hii ni hadithi mpya ya kusisimua inayojaribu kupima mizani ya haki katika jamii yetu.",
+"poster_url": "https://nawgqawbwmfvhywfvoke.supabase.co/storage/v1/object/public/posters/poster10.jpg",
+"country": "tanzania",
+"year": 2025,
+"dj": "Lufufu",
+"genres": [
+"Drama",
+"Crime"
+],
+"tags": [
+"new release",
+"underrated"
+],
+"created_at": "2025-08-03T16:11:12Z",
+"view_count": 9,
+"download_count": 4,
+"files": [
+{
+"label": "Episode 1 - Sheria Mkononi",
+"season": 1,
+"episode_number": 1,
+"download_url": "https://www.w3schools.com/html/mov_bbb.mp4"
+},
+{
+"label": "Episode 2 - Rushwa na Haki",
+"season": 1,
+"episode_number": 2,
+"download_url": "https://www.w3schools.com/html/mov_bbb.mp4"
+},
+{
+"label": "Episode 3 - Ushahidi wa Siri",
+"season": 1,
+"episode_number": 3,
+"download_url": "https://www.w3schools.com/html/mov_bbb.mp4"
+},
+{
+"label": "Episode 4 - Mizani ya Haki",
+"season": 1,
+"episode_number": 4,
+"download_url": "https://www.w3schools.com/html/mov_bbb.mp4"
+}
+]
+},
+{
+"title": "Sholay",
+"type": "movie",
+"description": "Katika kijiji cha mbali, jambazi hatari anayeitwa Gabbar Singh anasababisha hofu kubwa kwa wananchi. Afisa mstaafu wa polisi anaamua kuajiri wafungwa wawili jasiri ili kumkamata jambazi huyo. Mapigano makali na urafiki wa dhati unajitokeza katika safari hii ya hatari. Hii ni moja ya filamu maarufu na za kihistoria katika sinema ya Kihindi.",
+"poster_url": "https://nawgqawbwmfvhywfvoke.supabase.co/storage/v1/object/public/posters/poster11.jpg",
+"country": "india",
+"year": 2022,
+"dj": "Mack",
+"genres": [
+"Action",
+"Adventure",
+"Drama"
+],
+"tags": [
+"classic",
+"cult classic",
+"top rated"
+],
+"created_at": "2025-08-10T18:22:33Z",
+"view_count": 320,
+"download_count": 300,
+"files": [
+{
+"label": "Sholay - Part 1",
+"season": null,
+"episode_number": 1,
+"download_url": "https://www.w3schools.com/html/mov_bbb.mp4"
+},
+{
+"label": "Sholay - Part 2",
+"season": null,
+"episode_number": 2,
+"download_url": "https://www.w3schools.com/html/mov_bbb.mp4"
+},
+{
+"label": "Sholay - Part 3",
+"season": null,
+"episode_number": 3,
+"download_url": "https://www.w3schools.com/html/mov_bbb.mp4"
+}
+]
+},
+{
+"title": "Dangal",
+"type": "movie",
+"description": "Baba mmoja ambaye alikuwa bondia wa zamani anaamua kuwafunza binti zake wawili mchezo wa mwereka. Licha ya kupingwa vikali na jamii inayowaona wasichana kama watu wa nyumbani tu, anasimama kidete kuwapatia mafunzo magumu. Binti hao wanapambana vikali na kufanikiwa kufika mashindano ya kimataifa ya Jumuiya ya Madola. Ni hadithi ya kweli ya kutia moyo kuhusu ushujaa na mafanikio ya wanawake.",
+"poster_url": "https://nawgqawbwmfvhywfvoke.supabase.co/storage/v1/object/public/posters/poster12.jpg",
+"country": "india",
+"year": 2023,
+"dj": "Master",
+"genres": [
+"Biography",
+"Drama",
+"Sport"
+],
+"tags": [
+"award winning",
+"blockbuster",
+"top rated"
+],
+"created_at": "2025-08-17T20:33:44Z",
+"view_count": 150,
+"download_count": 140,
+"files": [
+{
+"label": "Full Movie",
+"season": null,
+"episode_number": 1,
+"download_url": "https://www.w3schools.com/html/mov_bbb.mp4"
+}
+]
+},
+{
+"title": "3 Idiots",
+"type": "movie",
+"description": "Marafiki watatu wa karibu wanasoma katika chuo kikuu cha uhandisi chenye ushindani mkubwa na mfumo mgumu. Wanajaribu kupambana na shinikizo la wazazi na walimu huku wakitafuta maana halisi ya elimu na maisha. Miaka mingi baada ya kuhitimu, wawili kati yao wanaanza safari ya kumtafuta rafiki yao aliyetoweka ghafla. Ni filamu yenye vichekesho vingi, hisia kali na mafunzo makubwa ya kijamii.",
+"poster_url": "https://nawgqawbwmfvhywfvoke.supabase.co/storage/v1/object/public/posters/poster13.jpg",
+"country": "india",
+"year": 2024,
+"dj": "Murphy",
+"genres": [
+"Comedy",
+"Drama"
+],
+"tags": [
+"fan favorite",
+"feel good"
+],
+"created_at": "2025-08-24T22:44:55Z",
+"view_count": 410,
+"download_count": 390,
+"files": [
+{
+"label": "Full Movie",
+"season": null,
+"episode_number": 1,
+"download_url": "https://www.w3schools.com/html/mov_bbb.mp4"
+}
+]
+},
+{
+"title": "Dilwale Dulhania Le Jayenge",
+"type": "movie",
+"description": "Raj na Simran wanakutana wakati wa safari ya likizo barani Ulaya na kupendana kwa dhati. Hata hivyo, Simran ameshatolewa posa kwa kijana mwingine huko nchini India na baba yake mkali. Raj anaamua kusafiri hadi India ili kujipendekeza kwa familia ya msichana na kuwashawishi wamruhusu amuoe. Hii ni sinema ya kimapenzi ya kihistoria inayopendwa na vizazi vingi kote ulimwenguni.",
+"poster_url": "https://nawgqawbwmfvhywfvoke.supabase.co/storage/v1/object/public/posters/poster14.jpg",
+"country": "india",
+"year": 2021,
+"dj": "Nasso",
+"genres": [
+"Romance",
+"Musical",
+"Drama"
+],
+"tags": [
+"classic",
+"fan favorite"
+],
+"created_at": "2025-08-31T05:55:06Z",
+"view_count": 25,
+"download_count": 12,
+"files": [
+{
+"label": "Full Movie",
+"season": null,
+"episode_number": 1,
+"download_url": "https://www.w3schools.com/html/mov_bbb.mp4"
+}
+]
+},
+{
+"title": "Lagaan",
+"type": "movie",
+"description": "Wakati wa ukoloni wa Waingereza nchini India, wakazi wa kijiji kimoja wanakabiliwa na kodi kubwa ya chakula. Ili kuondoa kodi hiyo, kiongozi wao anakubali changamoto ya kucheza mechi ya kriketi dhidi ya maafisa wa Kiingereza. Licha ya kutojua mchezo huo, wanakijiji wanajifunza kwa bidii ili kuokoa ardhi yao na maisha yao. Ni filamu ya kihistoria iliyosheheni hamasa, michezo na ushindi wa wanyonge.",
+"poster_url": "https://nawgqawbwmfvhywfvoke.supabase.co/storage/v1/object/public/posters/poster15.jpg",
+"country": "india",
+"year": 2025,
+"dj": "Six Fingers",
+"genres": [
+"Drama",
+"Sport",
+"Musical"
+],
+"tags": [
+"critically acclaimed",
+"must watch"
+],
+"created_at": "2025-09-07T06:06:17Z",
+"view_count": 8,
+"download_count": 3,
+"files": [
+{
+"label": "Full Movie",
+"season": null,
+"episode_number": 1,
+"download_url": "https://www.w3schools.com/html/mov_bbb.mp4"
+}
+]
+},
+{
+"title": "Sacred Games",
+"type": "series",
+"description": "Afisa mmoja wa polisi wa kiwango cha chini jijini Mumbai anapokea simu ya siri kutoka kwa kiongozi mkubwa wa genge la wahalifu. Kiongozi huyo anamuonya kuwa mji mzima utateketezwa ndani ya siku ishirini na tano zijazo. Polisi huyo anaanza uchunguzi wa siri ambao unampeleka kwenye ulimwengu wa rushwa, siasa chafu na ushirikina. Huu ni mfululizo wa kusisimua na wenye matukio mengi ya kushtua kila sekunde.",
+"poster_url": "https://nawgqawbwmfvhywfvoke.supabase.co/storage/v1/object/public/posters/poster16.jpg",
+"country": "india",
+"year": 2021,
+"dj": "Skills",
+"genres": [
+"Crime",
+"Thriller",
+"Drama"
+],
+"tags": [
+"dark",
+"mind blowing",
+"binge worthy"
+],
+"created_at": "2025-09-14T07:17:28Z",
+"view_count": 180,
+"download_count": 170,
+"files": [
+{
+"label": "Episode 1 - Part A",
+"season": 1,
+"episode_number": 1,
+"download_url": "https://www.w3schools.com/html/mov_bbb.mp4"
+},
+{
+"label": "Episode 1 - Part B",
+"season": 1,
+"episode_number": 1,
+"download_url": "https://www.w3schools.com/html/mov_bbb.mp4"
+},
+{
+"label": "Episode 2 - Ahadi ya Giza",
+"season": 1,
+"episode_number": 2,
+"download_url": "https://www.w3schools.com/html/mov_bbb.mp4"
+},
+{
+"label": "Episode 3 - Siri Zafunuliwa",
+"season": 1,
+"episode_number": 3,
+"download_url": "https://www.w3schools.com/html/mov_bbb.mp4"
+},
+{
+"label": "Episode 4 - Siku ya Mwisho",
+"season": 1,
+"episode_number": 4,
+"download_url": "https://www.w3schools.com/html/mov_bbb.mp4"
+}
+]
+},
+{
+"title": "Mirzapur",
+"type": "series",
+"description": "Utawala wa kimabavu wa bosi wa biashara haramu ya silaha na madawa ya kulevya unatawala mji wa Mirzapur. Nguvu yake inatikiswa pale vijana wawili wasomi wanapoingia kwenye mgogoro naye na hatimaye kulazimika kujiunga na ulimwengu wa uhalifu. Mapigano makali ya kugombea madaraka na kisasi cha damu yanaanza kusambaa mtaani. Ni drama kali inayoonyesha uhalisia wa magenge ya wahalifu na rushwa ya kisiasa.",
+"poster_url": "https://nawgqawbwmfvhywfvoke.supabase.co/storage/v1/object/public/posters/poster17.jpg",
+"country": "india",
+"year": 2022,
+"dj": "Smart",
+"genres": [
+"Action",
+"Crime",
+"Drama"
+],
+"tags": [
+"cult classic",
+"popular",
+"binge worthy"
+],
+"created_at": "2025-09-21T08:28:39Z",
+"view_count": 290,
+"download_count": 270,
+"files": [
+{
+"label": "Episode 1 - Sheria ya Bonde",
+"season": 1,
+"episode_number": 1,
+"download_url": "https://www.w3schools.com/html/mov_bbb.mp4"
+},
+{
+"label": "Episode 2 - Madaraka na Damu",
+"season": 1,
+"episode_number": 2,
+"download_url": "https://www.w3schools.com/html/mov_bbb.mp4"
+},
+{
+"label": "Episode 3 - Mbinu za Vita",
+"season": 1,
+"episode_number": 3,
+"download_url": "https://www.w3schools.com/html/mov_bbb.mp4"
+},
+{
+"label": "Episode 4 - Kisasi cha Mwisho",
+"season": 1,
+"episode_number": 4,
+"download_url": "https://www.w3schools.com/html/mov_bbb.mp4"
+}
+]
+},
+{
+"title": "Delhi Crime",
+"type": "series",
+"description": "Kufuatia tukio baya la ubakaji wa kikatili lililotokea jijini New Delhi, jeshi la polisi linaanzisha msako mkali usiku kucha. Kamishna wa polisi anasimamia binafsi uchunguzi huo mgumu huku kukiwa na shinikizo kubwa kutoka kwa umma na vyombo vya habari. Kikosi chake kinapambana kukusanya ushahidi na kuwakamata wahalifu wote waliohusika ndani ya muda mfupi. Ni hadithi ya kweli inayofichua ugumu wa kazi za polisi na harakati za kutafuta haki.",
+"poster_url": "https://nawgqawbwmfvhywfvoke.supabase.co/storage/v1/object/public/posters/poster18.jpg",
+"country": "india",
+"year": 2023,
+"dj": "Tino",
+"genres": [
+"Crime",
+"Drama",
+"Mystery"
+],
+"tags": [
+"award winning",
+"critically acclaimed"
+],
+"created_at": "2025-09-28T09:39:50Z",
+"view_count": 75,
+"download_count": 68,
+"files": [
+{
+"label": "Episode 1 - Usiku wa Giza",
+"season": 1,
+"episode_number": 1,
+"download_url": "https://www.w3schools.com/html/mov_bbb.mp4"
+},
+{
+"label": "Episode 2 - Uchunguzi Unaanza",
+"season": 1,
+"episode_number": 2,
+"download_url": "https://www.w3schools.com/html/mov_bbb.mp4"
+},
+{
+"label": "Episode 3 - Kukusanya Ushahidi",
+"season": 1,
+"episode_number": 3,
+"download_url": "https://www.w3schools.com/html/mov_bbb.mp4"
+},
+{
+"label": "Episode 4 - Haki Inapatikana",
+"season": 1,
+"episode_number": 4,
+"download_url": "https://www.w3schools.com/html/mov_bbb.mp4"
+}
+]
+},
+{
+"title": "Panchayat",
+"type": "series",
+"description": "Kijana mhitimu wa chuo kikuu anakubali kazi ya serikali ya kuwa katibu wa kijiji cha mbali kutokana na ukosefu wa ajira bora. Anajikuta akilazimika kuishi katika mazingira duni na kushughulikia migogoro midogo na ya ajabu ya wanakijiji. Licha ya kutaka kuondoka mara moja, anajifunza kuzoea maisha hayo na kupata marafiki wa dhati miongoni mwa wenyeji. Hii ni vichekesho vya kijamii vyenye hisia nzuri na mafundisho kuhusu maisha ya vijijini.",
+"poster_url": "https://nawgqawbwmfvhywfvoke.supabase.co/storage/v1/object/public/posters/poster19.jpg",
+"country": "india",
+"year": 2021,
+"dj": "Uncle",
+"genres": [
+"Comedy",
+"Drama"
+],
+"tags": [
+"feel good",
+"hidden gem",
+"top rated"
+],
+"created_at": "2025-10-05T10:50:01Z",
+"view_count": 140,
+"download_count": 125,
+"files": [
+{
+"label": "Episode 1 - Kijiji Kipya",
+"season": 1,
+"episode_number": 1,
+"download_url": "https://www.w3schools.com/html/mov_bbb.mp4"
+},
+{
+"label": "Episode 2 - Changamoto za Maji",
+"season": 1,
+"episode_number": 2,
+"download_url": "https://www.w3schools.com/html/mov_bbb.mp4"
+},
+{
+"label": "Episode 3 - Uchaguzi Mdogo",
+"season": 1,
+"episode_number": 3,
+"download_url": "https://www.w3schools.com/html/mov_bbb.mp4"
+},
+{
+"label": "Episode 4 - Maisha ya Kijamii",
+"season": 1,
+"episode_number": 4,
+"download_url": "https://www.w3schools.com/html/mov_bbb.mp4"
+}
+]
+},
+{
+"title": "The Family Man",
+"type": "series",
+"description": "Kijana mmoja anafanya kazi kama jasusi wa siri wa kikosi maalum cha kupambana na ugaidi nchini India. Wakati huohuo, anajaribu kulinda familia yake na kuzuia ndoa yake isisambaratike kutokana na usiri wa kazi yake. Anakabiliwa na changamoto ya kuzuia mashambulizi ya kigaidi huku akishughulikia matatizo ya kawaida ya nyumbani kwake. Ni mfululizo wa kusisimua uliojaa matukio ya hatari na ucheshi wa kipekee.",
+"poster_url": "https://nawgqawbwmfvhywfvoke.supabase.co/storage/v1/object/public/posters/poster20.jpg",
+"country": "india",
+"year": 2022,
+"dj": "Young Money",
+"genres": [
+"Action",
+"Comedy",
+"Drama"
+],
+"tags": [
+"trending",
+"must watch",
+"blockbuster"
+],
+"created_at": "2025-10-12T11:01:12Z",
+"view_count": 215,
+"download_count": 195,
+"files": [
+{
+"label": "Episode 1 - Maisha ya Siri",
+"season": 1,
+"episode_number": 1,
+"download_url": "https://www.w3schools.com/html/mov_bbb.mp4"
+},
+{
+"label": "Episode 2 - Hatari Inakaribia",
+"season": 1,
+"episode_number": 2,
+"download_url": "https://www.w3schools.com/html/mov_bbb.mp4"
+},
+{
+"label": "Episode 3 - Operesheni Maalum",
+"season": 1,
+"episode_number": 3,
+"download_url": "https://www.w3schools.com/html/mov_bbb.mp4"
+},
+{
+"label": "Episode 4 - Kulinda Familia",
+"season": 1,
+"episode_number": 4,
+"download_url": "https://www.w3schools.com/html/mov_bbb.mp4"
+}
+]
+},
+{
+"title": "Parasite",
+"type": "movie",
+"description": "Familia moja maskini sana inafanikiwa kupata kazi katika jumba la kifahari la familia tajiri kupitia mbinu za udanganyifu. Mmoja baada ya mwingine, wanajipenyeza kama wafanyakazi wa ndani bila waajiri wao kujua uhusiano wao halisi. Hata hivyo, siri nzito inayofichuka chini ya jumba hilo inatishia kuharibu kila kitu walichopanga. Hii ni filamu iliyoshinda tuzo nyingi inayochambua kwa undani utofauti wa matabaka ya kijamii.",
+"poster_url": "https://nawgqawbwmfvhywfvoke.supabase.co/storage/v1/object/public/posters/poster1.jpg",
+"country": "south_korea",
+"year": 2024,
+"dj": "Afro",
+"genres": [
+"Drama",
+"Thriller"
+],
+"tags": [
+"award winning",
+"critically acclaimed",
+"mind blowing"
+],
+"created_at": "2025-10-19T12:12:23Z",
+"view_count": 480,
+"download_count": 450,
+"files": [
+{
+"label": "Parasite - Part 1",
+"season": null,
+"episode_number": 1,
+"download_url": "https://www.w3schools.com/html/mov_bbb.mp4"
+},
+{
+"label": "Parasite - Part 2",
+"season": null,
+"episode_number": 2,
+"download_url": "https://www.w3schools.com/html/mov_bbb.mp4"
+}
+]
+},
+{
+"title": "Train to Busan",
+"type": "movie",
+"description": "Baba mmoja na binti yake wanapanda treni ya mwendo kasi kutoka Seoul kwenda Busan ili kumtembelea mama yake. Ghafla, ugonjwa wa ajabu unaanza kusambaa na kugeuza watu kuwa mazombi wenye kiu ya damu ndani ya treni hiyo. Abiria wanapaswa kupambana vikali kuishi na kulinda wapendwa wao wakati treni ikipita katikati ya miji iliyoharibiwa. Ni filamu ya kutisha na ya kusisimua sana yenye hisia kali za kifamilia.",
+"poster_url": "https://nawgqawbwmfvhywfvoke.supabase.co/storage/v1/object/public/posters/poster2.jpg",
+"country": "south_korea",
+"year": 2021,
+"dj": "Ally",
+"genres": [
+"Action",
+"Horror",
+"Thriller"
+],
+"tags": [
+"blockbuster",
+"cult classic",
+"must watch"
+],
+"created_at": "2025-10-26T13:23:34Z",
+"view_count": 395,
+"download_count": 380,
+"files": [
+{
+"label": "Full Movie",
+"season": null,
+"episode_number": 1,
+"download_url": "https://www.w3schools.com/html/mov_bbb.mp4"
+}
+]
+},
+{
+"title": "Oldboy",
+"type": "movie",
+"description": "Mwanaume mmoja anatekwa nyara na kufungiwa kwenye chumba kidogo cha siri kwa miaka kumi na tano bila kujua sababu. Ghafla anaachiwa huru na kupewa siku tano tu za kugundua aliyemteka na sababu ya kufanya hivyo. Anaanza safari ya kisasi iliyojaa vurugu na mateso makali huku akigundua ukweli wa kushtua kuhusu maisha yake ya nyuma. Ni kazi ya sanaa ya kipekee yenye mafumbo makubwa na mwisho wa kushangaza mno.",
+"poster_url": "https://nawgqawbwmfvhywfvoke.supabase.co/storage/v1/object/public/posters/poster3.jpg",
+"country": "south_korea",
+"year": 2025,
+"dj": "Banza",
+"genres": [
+"Action",
+"Mystery",
+"Thriller"
+],
+"tags": [
+"dark",
+"cult classic",
+"mind blowing"
+],
+"created_at": "2025-11-02T14:34:45Z",
+"view_count": 110,
+"download_count": 95,
+"files": [
+{
+"label": "Full Movie",
+"season": null,
+"episode_number": 1,
+"download_url": "https://www.w3schools.com/html/mov_bbb.mp4"
+}
+]
+},
+{
+"title": "The Host",
+"type": "movie",
+"description": "Kiumbe cha ajabu na kikubwa kinachotokana na taka za sumu kinaibuka kutoka Mto Han na kuanza kushambulia wananchi. Kiumbe hicho kinamteka nyara binti mdogo wa mmiliki wa duka la chakula mtoni hapo. Familia ya binti huyo, licha ya kuwa duni, inaamua kushirikiana kumuokoa kutoka kwenye mikono ya kiumbe huyo katikati ya karantini ya serikali. Ni mchanganyiko mzuri wa haditya kutisha, vichekesho na mapambano ya kifamilia.",
+"poster_url": "https://nawgqawbwmfvhywfvoke.supabase.co/storage/v1/object/public/posters/poster4.jpg",
+"country": "south_korea",
+"year": 2022,
+"dj": "Black",
+"genres": [
+"Action",
+"Horror",
+"Sci-Fi"
+],
+"tags": [
+"classic",
+"popular"
+],
+"created_at": "2025-11-09T15:45:56Z",
+"view_count": 45,
+"download_count": 30,
+"files": [
+{
+"label": "Full Movie",
+"season": null,
+"episode_number": 1,
+"download_url": "https://www.w3schools.com/html/mov_bbb.mp4"
+}
+]
+},
+{
+"title": "Extreme Job",
+"type": "movie",
+"description": "Kikundi cha wapelelezi wa madawa ya kulevya kinapanga operesheni ya siri kwa kufungua mgahawa wa kuku wa kukaanga karibu na jengo la wahalifu. Jambo la kushangaza ni kwamba mapishi yao yanakuwa maarufu sana na kufanya mgahawa huo kuwa na wateja wengi kupita kiasi. Wanajikuta wakishindwa kufanya upelelezi vizuri kwa sababu ya kuwa na shughuli nyingi za kupika na kuhudumia wateja. Hii ni sinema ya vichekesho vya kuvunja mbavu na mapigano ya kusisimua.",
+"poster_url": "https://nawgqawbwmfvhywfvoke.supabase.co/storage/v1/object/public/posters/poster5.jpg",
+"country": "south_korea",
+"year": 2023,
+"dj": "Carlos",
+"genres": [
+"Action",
+"Comedy"
+],
+"tags": [
+"blockbuster",
+"feel good",
+"fan favorite"
+],
+"created_at": "2025-11-16T16:56:07Z",
+"view_count": 280,
+"download_count": 260,
+"files": [
+{
+"label": "Full Movie",
+"season": null,
+"episode_number": 1,
+"download_url": "https://www.w3schools.com/html/mov_bbb.mp4"
+}
+]
+},
+{
+"title": "Squid Game",
+"type": "series",
+"description": "Mamia ya watu wenye madeni makubwa ya kifedha wanaalikwa kushiriki kwenye michezo ya watoto ili kujishindia mamilioni ya pesa. Hata hivyo, wanagundua haraka sana kuwa kushindwa kwenye mchezo huo kunamaanisha kifo cha papo hapo. Kila mshiriki anapaswa kupambana kwa ukatili mkubwa ili kubaki hai na kujipatia ushindi. Huu ni mfululizo uliovunja rekodi za utazamaji kote duniani kutokana na ujumbe wake mzito.",
+"poster_url": "https://nawgqawbwmfvhywfvoke.supabase.co/storage/v1/object/public/posters/poster6.jpg",
+"country": "south_korea",
+"year": 2021,
+"dj": "Choka",
+"genres": [
+"Action",
+"Drama",
+"Thriller"
+],
+"tags": [
+"award winning",
+"mind blowing",
+"binge worthy"
+],
+"created_at": "2025-11-23T17:07:18Z",
+"view_count": 499,
+"download_count": 490,
+"files": [
+{
+"label": "Episode 1 - Siku ya Kwanza",
+"season": 1,
+"episode_number": 1,
+"download_url": "https://www.w3schools.com/html/mov_bbb.mp4"
+},
+{
+"label": "Episode 2 - Maamuzi ya Kikundi",
+"season": 1,
+"episode_number": 2,
+"download_url": "https://www.w3schools.com/html/mov_bbb.mp4"
+},
+{
+"label": "Episode 3 - Mchezo wa Pili",
+"season": 1,
+"episode_number": 3,
+"download_url": "https://www.w3schools.com/html/mov_bbb.mp4"
+},
+{
+"label": "Episode 4 - Part A",
+"season": 1,
+"episode_number": 4,
+"download_url": "https://www.w3schools.com/html/mov_bbb.mp4"
+},
+{
+"label": "Episode 4 - Part B",
+"season": 1,
+"episode_number": 4,
+"download_url": "https://www.w3schools.com/html/mov_bbb.mp4"
+}
+]
+},
+{
+"title": "Crash Landing on You",
+"type": "series",
+"description": "Msichana tajiri na mfanyabiashara maarufu wa Korea Kusini anapata ajali ya paragliding na kujikuta ameanguka upande wa Korea Kaskazini. Huko, anakutana na afisa wa jeshi la Korea Kaskazini ambaye anaamua kumficha na kumlinda badala ya kumkamata. Wanapanga mbinu mbalimbali za kumrudisha nyumbani kwa usiri mkubwa huku wakianza kuvutiwa kimapenzi. Ni hadithi nzuri ya kimapenzi inayovuka mipaka ya kisiasa na kijeshi.",
+"poster_url": "https://nawgqawbwmfvhywfvoke.supabase.co/storage/v1/object/public/posters/poster7.jpg",
+"country": "south_korea",
+"year": 2024,
+"dj": "J4",
+"genres": [
+"Romance",
+"Comedy",
+"Drama"
+],
+"tags": [
+"fan favorite",
+"feel good",
+"popular"
+],
+"created_at": "2025-11-30T18:18:29Z",
+"view_count": 310,
+"download_count": 280,
+"files": [
+{
+"label": "Episode 1 - Anguko la Ghafla",
+"season": 1,
+"episode_number": 1,
+"download_url": "https://www.w3schools.com/html/mov_bbb.mp4"
+},
+{
+"label": "Episode 2 - Maficho ya Siri",
+"season": 1,
+"episode_number": 2,
+"download_url": "https://www.w3schools.com/html/mov_bbb.mp4"
+},
+{
+"label": "Episode 3 - Mbinu za Kutoroka",
+"season": 1,
+"episode_number": 3,
+"download_url": "https://www.w3schools.com/html/mov_bbb.mp4"
+},
+{
+"label": "Episode 4 - Penzi Mipaka ya Nchi",
+"season": 1,
+"episode_number": 4,
+"download_url": "https://www.w3schools.com/html/mov_bbb.mp4"
+}
+]
+},
+{
+"title": "Itaewon Class",
+"type": "series",
+"description": "Kijana mmoja aliyepitia maisha magumu na kufungwa gerezani anaamua kufungua mgahawa mdogo katika mtaa maarufu wa Itaewon. Lengo lake kubwa ni kulipiza kisasi dhidi ya kampuni kubwa ya chakula iliyosababisha kifo cha baba yake. Akishirikiana na kikundi cha vijana wenye vipaji vya kipekee, anapambana dhidi ya vikwazo vyote vya kiushindani na kijamii. Ni drama ya kuvutia kuhusu uthabiti wa malengo, urafiki na mapambano dhidi ya uonevu.",
+"poster_url": "https://nawgqawbwmfvhywfvoke.supabase.co/storage/v1/object/public/posters/poster8.jpg",
+"country": "south_korea",
+"year": 2022,
+"dj": "Juma Khan",
+"genres": [
+"Drama"
+],
+"tags": [
+"must watch",
+"trending"
+],
+"created_at": "2025-12-07T19:29:40Z",
+"view_count": 95,
+"download_count": 80,
+"files": [
+{
+"label": "Episode 1 - Kuanza Upya",
+"season": 1,
+"episode_number": 1,
+"download_url": "https://www.w3schools.com/html/mov_bbb.mp4"
+},
+{
+"label": "Episode 2 - Ndoto ya Mtaani",
+"season": 1,
+"episode_number": 2,
+"download_url": "https://www.w3schools.com/html/mov_bbb.mp4"
+},
+{
+"label": "Episode 3 - Washirika Wapya",
+"season": 1,
+"episode_number": 3,
+"download_url": "https://www.w3schools.com/html/mov_bbb.mp4"
+},
+{
+"label": "Episode 4 - Mapambano ya Soko",
+"season": 1,
+"episode_number": 4,
+"download_url": "https://www.w3schools.com/html/mov_bbb.mp4"
+}
+]
+},
+{
+"title": "Kingdom",
+"type": "series",
+"description": "Katika kipindi cha nasaba ya Joseon, uvumi wa ugonjwa wa ajabu unaoeneza kifo unamkabili mfalme aliyefichwa. Mwanamfalme wa taji anasafiri kwenda nje ya ikulu ili kuchunguza asili ya janga hilo la kutisha linalowageuza wafu kuwa viumbe hatari. Anajikuta akipambana kulinda raia wake dhidi ya kundi kubwa la wafu wanaotembea usiku huku akizuia mapinduzi ya kisiasa ikulu. Ni mchanganyiko wa kipekee wa historia ya kale na hadithi za kutisha za mazombi.",
+"poster_url": "https://nawgqawbwmfvhywfvoke.supabase.co/storage/v1/object/public/posters/poster9.jpg",
+"country": "south_korea",
+"year": 2025,
+"dj": "Kingononga",
+"genres": [
+"Action",
+"Horror",
+"History"
+],
+"tags": [
+"dark",
+"critically acclaimed",
+"binge worthy"
+],
+"created_at": "2025-12-14T20:40:51Z",
+"view_count": 185,
+"download_count": 172,
+"files": [
+{
+"label": "Episode 1 - Mfalme Aliyefichwa",
+"season": 1,
+"episode_number": 1,
+"download_url": "https://www.w3schools.com/html/mov_bbb.mp4"
+},
+{
+"label": "Episode 2 - Janga la Usiku",
+"season": 1,
+"episode_number": 2,
+"download_url": "https://www.w3schools.com/html/mov_bbb.mp4"
+},
+{
+"label": "Episode 3 - Mapambano Milimani",
+"season": 1,
+"episode_number": 3,
+"download_url": "https://www.w3schools.com/html/mov_bbb.mp4"
+},
+{
+"label": "Episode 4 - Ukuta wa Ulinzi",
+"season": 1,
+"episode_number": 4,
+"download_url": "https://www.w3schools.com/html/mov_bbb.mp4"
+}
+]
+},
+{
+"title": "Descendants of the Sun",
+"type": "series",
+"description": "Uhuduma wa kimapenzi unaanza kati ya kepteni wa kikosi maalum cha jeshi na daktari wa upasuaji wa kike. Licha ya tofauti za kazi zao, wanakutana tena katika nchi iliyokumbwa na vita na majanga ya asili kwa ajili ya operesheni ya uokoaji. Huko, wanakabiliwa na hatari kubwa za kiusalama huku wakijaribu kudumisha penzi lao katikati ya dhoruba za maisha. Hii ni drama ya kimapenzi iliyopata umaarufu mkubwa sana barani Asia na kwingineko.",
+"poster_url": "https://nawgqawbwmfvhywfvoke.supabase.co/storage/v1/object/public/posters/poster10.jpg",
+"country": "south_korea",
+"year": 2023,
+"dj": "Lufufu",
+"genres": [
+"Romance",
+"Action",
+"Drama"
+],
+"tags": [
+"classic",
+"fan favorite"
+],
+"created_at": "2025-12-21T21:51:02Z",
+"view_count": 25,
+"download_count": 15,
+"files": [
+{
+"label": "Episode 1 - Kukutana kwa Kwanza",
+"season": 1,
+"episode_number": 1,
+"download_url": "https://www.w3schools.com/html/mov_bbb.mp4"
+},
+{
+"label": "Episode 2 - Misioni ya Nje",
+"season": 1,
+"episode_number": 2,
+"download_url": "https://www.w3schools.com/html/mov_bbb.mp4"
+},
+{
+"label": "Episode 3 - Tetemeko la Ardhi",
+"season": 1,
+"episode_number": 3,
+"download_url": "https://www.w3schools.com/html/mov_bbb.mp4"
+},
+{
+"label": "Episode 4 - Ahadi ya Usalama",
+"season": 1,
+"episode_number": 4,
+"download_url": "https://www.w3schools.com/html/mov_bbb.mp4"
+}
+]
+},
+{
+"title": "Miracle in Cell No. 7",
+"type": "movie",
+"description": "Baba mmoja mwenye ulemavu wa akili anashtakiwa kimakosa kwa mauaji ya binti wa afisa mkuu wa kijeshi nchini Uturuki. Anafungwa gerezani na kuhukumiwa kifo licha ya kutokuwa na hatia yoyote katika tukio hilo. Wafungwa wenzake kwenye selo namba saba wanagundua upole na upendo wake mkubwa na kuamua kumsaidia kumuona binti yake mdogo. Ni filamu ya kugusa hisia sana inayozungumzia haki, upendo wa kifamilia na ubinadamu.",
+"poster_url": "https://nawgqawbwmfvhywfvoke.supabase.co/storage/v1/object/public/posters/poster11.jpg",
+"country": "turkey",
+"year": 2021,
+"dj": "Mack",
+"genres": [
+"Drama",
+"Family"
+],
+"tags": [
+"blockbuster",
+"feel good",
+"must watch"
+],
+"created_at": "2025-12-28T22:02:13Z",
+"view_count": 485,
+"download_count": 470,
+"files": [
+{
+"label": "Miracle in Cell No. 7 - Part 1",
+"season": null,
+"episode_number": 1,
+"download_url": "https://www.w3schools.com/html/mov_bbb.mp4"
+},
+{
+"label": "Miracle in Cell No. 7 - Part 2",
+"season": null,
+"episode_number": 2,
+"download_url": "https://www.w3schools.com/html/mov_bbb.mp4"
+}
+]
+},
+{
+"title": "Winter Sleep",
+"type": "movie",
+"description": "Muigizaji wa zamani anayeishi na mke wake mdogo pamoja na dada yake anaendesha hoteli ndogo katikati ya milima ya Cappadocia. Wakati wa msimu wa baridi kali, hoteli hiyo inatengwa na ulimwengu wa nje, na kuwalazimisha wahusika kukabiliana na migogoro yao ya ndani. Mazungumzo marefu yanadhihirisha tofauti zao za kimaadili, kijamii na kiuchumi na kuleta mivutano mikubwa ya kifamilia. Ni filamu ya kisanaa yenye kina kirefu na maoni mazito juu ya maisha ya binadamu.",
+"poster_url": "https://nawgqawbwmfvhywfvoke.supabase.co/storage/v1/object/public/posters/poster12.jpg",
+"country": "turkey",
+"year": 2024,
+"dj": "Master",
+"genres": [
+"Drama"
+],
+"tags": [
+"award winning",
+"critically acclaimed",
+"underrated"
+],
+"created_at": "2026-01-04T08:13:24Z",
+"view_count": 42,
+"download_count": 18,
+"files": [
+{
+"label": "Full Movie",
+"season": null,
+"episode_number": 1,
+"download_url": "https://www.w3schools.com/html/mov_bbb.mp4"
+}
+]
+},
+{
+"title": "Once Upon a Time in Anatolia",
+"type": "movie",
+"description": "Kundi la wanaume linalojumuisha mwendesha mashtaka, daktari na maafisa wa polisi wanaongozwa na washukiwa wawili wa mauaji kutafuta mwili uliozikwa nyikani. Katika safari hiyo ndefu ya usiku kucha kwenye milima ya Anatolia, siri za kibinafsi na masuala ya kijamii yanaanza kujitokeza kupitia mazungumzo yao ya kawaida. Kila mmoja wao anakabiliwa na mizigo ya maisha yake ya nyuma na ukweli usioepukika wa ubinadamu. Ni kazi ya sanaa ya kipekee yenye picha nzuri na maelezo ya kina.",
+"poster_url": "https://nawgqawbwmfvhywfvoke.supabase.co/storage/v1/object/public/posters/poster13.jpg",
+"country": "turkey",
+"year": 2013,
+"dj": "Murphy",
+"genres": [
+"Crime",
+"Drama"
+],
+"tags": [
+"critically acclaimed",
+"dark",
+"hidden gem"
+],
+"created_at": "2026-01-11T09:24:35Z",
+"view_count": 55,
+"download_count": 24,
+"files": [
+{
+"label": "Full Movie",
+"season": null,
+"episode_number": 1,
+"download_url": "https://www.w3schools.com/html/mov_bbb.mp4"
+}
+]
+},
+{
+"title": "Love Likes Coincidences",
+"type": "movie",
+"description": "Kijana na msichana waliokutana kwa mara ya kwanza tanzu wakiwa watoto wanajikuta wakikutana tena miaka mingi baadaye jijini Istanbul. Licha ya maisha yao kuchukua njia tofauti kabisa, matukio mengi ya bahati mbaya yanaendelea kuwaleta pamoja na kuimarisha uhusiano wao. Wanagundua kuwa upendo wao una mizizi mirefu ya zamani inayounganisha hatima zao kwa namna ya ajabu. Hii ni filamu ya kimapenzi yenye hisia kali na muziki mzuri sana wa kuvutia.",
+"poster_url": "https://nawgqawbwmfvhywfvoke.supabase.co/storage/v1/object/public/posters/poster14.jpg",
+"country": "turkey",
+"year": 2025,
+"dj": "Nasso",
+"genres": [
+"Romance",
+"Drama"
+],
+"tags": [
+"throwback",
+"fan favorite"
+],
+"created_at": "2026-01-18T10:35:46Z",
+"view_count": 13,
+"download_count": 8,
+"files": [
+{
+"label": "Full Movie",
+"season": null,
+"episode_number": 1,
+"download_url": "https://www.w3schools.com/html/mov_bbb.mp4"
+}
+]
+},
+{
+"title": "Ayla: The Daughter of War",
+"type": "movie",
+"description": "Wakati wa Vita vya Korea, askari mmoja wa Kituruki anakutana na msichana mdogo aliyebaki yatima katikati ya uwanja wa mapambano. Anamchukua na kumlea kama binti yake mwenyewe ndani ya kambi ya kijeshi huku akimpa jina la Ayla. Hata hivyo, vita vinapoisha, analazimika kufanya maamuzi magumu ya kurudi Uturuki bila yeye kutokana na sheria za nchi. Ni hadithi ya kweli ya kusisimua kuhusu upendo usio na mipaka ya utaifa wala damu.",
+"poster_url": "https://nawgqawbwmfvhywfvoke.supabase.co/storage/v1/object/public/posters/poster15.jpg",
+"country": "turkey",
+"year": 2021,
+"dj": "Six Fingers",
+"genres": [
+"Drama",
+"War",
+"History"
+],
+"tags": [
+"based on true story",
+"award winning",
+"must watch"
+],
+"created_at": "2026-01-25T11:46:57Z",
+"view_count": 312,
+"download_count": 298,
+"files": [
+{
+"label": "Full Movie",
+"season": null,
+"episode_number": 1,
+"download_url": "https://www.w3schools.com/html/mov_bbb.mp4"
+}
+]
+},
+{
+"title": "Dirilis: Ertugrul",
+"type": "series",
+"description": "Mfululizo huu wa kihistoria unaonyesha harakati za Ertugrul, baba wa mwanzilishi wa Dola ya Ottoman, katika karne ya kumi na tatu. Anapambana kulinda kabila lake dhidi ya mashambulizi ya Wamongolia na mashujaa wa Kikristo huku akitafuta ardhi mpya ya makazi. Uhodari wake wa kivita na imani yake thabiti vinamfanya kuwa kiongozi mkuu anayeheshimika na wengi. Ni drama maarufu sana yenye mafundisho ya ujasiri, uaminifu na mikakati ya kisiasa.",
+"poster_url": "https://nawgqawbwmfvhywfvoke.supabase.co/storage/v1/object/public/posters/poster16.jpg",
+"country": "turkey",
+"year": 2022,
+"dj": "Skills",
+"genres": [
+"Action",
+"History",
+"Drama"
+],
+"tags": [
+"popular",
+"binge worthy",
+"classic"
+],
+"created_at": "2026-02-01T12:57:08Z",
+"view_count": 440,
+"download_count": 410,
+"files": [
+{
+"label": "Episode 1 - Safari Inaanza",
+"season": 1,
+"episode_number": 1,
+"download_url": "https://www.w3schools.com/html/mov_bbb.mp4"
+},
+{
+"label": "Episode 2 - Part A",
+"season": 1,
+"episode_number": 2,
+"download_url": "https://www.w3schools.com/html/mov_bbb.mp4"
+},
+{
+"label": "Episode 2 - Part B",
+"season": 1,
+"episode_number": 2,
+"download_url": "https://www.w3schools.com/html/mov_bbb.mp4"
+},
+{
+"label": "Episode 3 - Siri ya Hekalu",
+"season": 1,
+"episode_number": 3,
+"download_url": "https://www.w3schools.com/html/mov_bbb.mp4"
+},
+{
+"label": "Episode 4 - Kulinda Kabila",
+"season": 1,
+"episode_number": 4,
+"download_url": "https://www.w3schools.com/html/mov_bbb.mp4"
+}
+]
+},
+{
+"title": "The Protector",
+"type": "series",
+"description": "Kijana mmoja wa kawaida anayeishi Istanbul anagundua kuwa ana uhusiano wa siri na kikosi ka kale kilichopewa jukumu la kulinda mji huo dhidi ya maadui wasioonekana. Anapaswa kujifunza kutumia nguvu za ajabu za shati la kichawi ili kuzuia uharibifu wa mji wake. Wakati huohuo, anapambana kusawazisha maisha yake mapya ya kishujaa na hisia zake za kibinafsi. Huu ni mfululizo wa kwanza wa Uturuki wa aina hii uliopata mashabiki wengi duniani.",
+"poster_url": "https://nawgqawbwmfvhywfvoke.supabase.co/storage/v1/object/public/posters/poster17.jpg",
+"country": "turkey",
+"year": 2023,
+"dj": "Smart",
+"genres": [
+"Action",
+"Fantasy",
+"Sci-Fi"
+],
+"tags": [
+"fan favorite",
+"trending"
+],
+"created_at": "2026-02-08T13:08:19Z",
+"view_count": 120,
+"download_count": 105,
+"files": [
+{
+"label": "Episode 1 - Shati la Kichawi",
+"season": 1,
+"episode_number": 1,
+"download_url": "https://www.w3schools.com/html/mov_bbb.mp4"
+},
+{
+"label": "Episode 2 - Maadui Wasioonekana",
+"season": 1,
+"episode_number": 2,
+"download_url": "https://www.w3schools.com/html/mov_bbb.mp4"
+},
+{
+"label": "Episode 3 - Mafunzo Maalum",
+"season": 1,
+"episode_number": 3,
+"download_url": "https://www.w3schools.com/html/mov_bbb.mp4"
+},
+{
+"label": "Episode 4 - Mlinzi wa Istanbul",
+"season": 1,
+"episode_number": 4,
+"download_url": "https://www.w3schools.com/html/mov_bbb.mp4"
+}
+]
+},
+{
+"title": "Kara Sevda",
+"type": "series",
+"description": "Kemal, kijana kutoka familia ya tabaka la chini, na Nihan, msichana kutoka familia tajiri, wanapendana kwa dhati licha ya tofauti zao za kimaisha. Hata hivyo, ndoa ya kulazimishwa inayopangwa na tajiri mmoja dhalimu inawatenganisha na kupelekea Kemal kuondoka mjini kwa miaka mingi. Anaporudi akiwa tajiri na mwenye mafanikio makubwa, anaanza harakati za kupigania penzi lake na kufichua ukweli. Ni mfululizo ulioshinda tuzo ya Emmy kwa visa vyake vya kuvutia vya usaliti na mapenzi.",
+"poster_url": "https://nawgqawbwmfvhywfvoke.supabase.co/storage/v1/object/public/posters/poster18.jpg",
+"country": "turkey",
+"year": 2024,
+"dj": "Tino",
+"genres": [
+"Drama",
+"Romance"
+],
+"tags": [
+"classic",
+"popular",
+"binge worthy"
+],
+"created_at": "2026-02-15T14:19:30Z",
+"view_count": 310,
+"download_count": 290,
+"files": [
+{
+"label": "Episode 1 - Tofauti za Maisha",
+"season": 1,
+"episode_number": 1,
+"download_url": "https://www.w3schools.com/html/mov_bbb.mp4"
+},
+{
+"label": "Episode 2 - Ndoa ya Lazima",
+"season": 1,
+"episode_number": 2,
+"download_url": "https://www.w3schools.com/html/mov_bbb.mp4"
+},
+{
+"label": "Episode 3 - Kurudi kwa Kemal",
+"season": 1,
+"episode_number": 3,
+"download_url": "https://www.w3schools.com/html/mov_bbb.mp4"
+},
+{
+"label": "Episode 4 - Vita vya Mapenzi",
+"season": 1,
+"episode_number": 4,
+"download_url": "https://www.w3schools.com/html/mov_bbb.mp4"
+}
+]
+},
+{
+"title": "Love is in the Air",
+"type": "series",
+"description": "Eda ni msichana anayepambana kupata ufadhili wa masomo ya usanifu wa majengo lakini anajikuta akikabiliwa na kikwazo kutoka kwa tajiri mchanga, Serkan. Serkan anamfanyia ofa ya kufanya naye mkataba wa kuwa mpenzi wake wa kisanii kwa miezi miwili ili arejeshe ufadhili wake. Licha ya kuanza kwa chuki kubwa, wawili hao wanaanza kuvutiwa na kupendana kwa dhati katika mazingira ya ucheshi. Huu ni mfululizo wa kimapenzi uliojaa matukio ya kuvutia na ucheshi wa kupendeza.",
+"poster_url": "https://nawgqawbwmfvhywfvoke.supabase.co/storage/v1/object/public/posters/poster19.jpg",
+"country": "turkey",
+"year": 2021,
+"dj": "Uncle",
+"genres": [
+"Comedy",
+"Romance"
+],
+"tags": [
+"trending",
+"fan favorite",
+"must watch"
+],
+"created_at": "2026-02-22T15:30:41Z",
+"view_count": 415,
+"download_count": 395,
+"files": [
+{
+"label": "Episode 1 - Ndoto Iliyopotea",
+"season": 1,
+"episode_number": 1,
+"download_url": "https://www.w3schools.com/html/mov_bbb.mp4"
+},
+{
+"label": "Episode 2 - Mkataba wa Siri",
+"season": 1,
+"episode_number": 2,
+"download_url": "https://www.w3schools.com/html/mov_bbb.mp4"
+},
+{
+"label": "Episode 3 - Hisia Mpya",
+"season": 1,
+"episode_number": 3,
+"download_url": "https://www.w3schools.com/html/mov_bbb.mp4"
+},
+{
+"label": "Episode 4 - Maisha ya Mapenzi",
+"season": 1,
+"episode_number": 4,
+"download_url": "https://www.w3schools.com/html/mov_bbb.mp4"
+}
+]
+},
+{
+"title": "The Club",
+"type": "series",
+"description": "Katika miaka ya hamsini jijini Istanbul, mama mmoja aliyeachiwa huru kutoka gerezani anajaribu kuanzisha uhusiano upya na binti yake aliyekulia yatima. Ili kupata fedha, anaanza kufanya kazi katika klabu ya usiku ya kifahari na yenye ushawishi mkubwa miongoni mwa watu maarufu. Anakabiliwa na changamoto za kijamii na kisiasa za wakati huo huku akijaribu kumlinda binti yake dhidi ya hatari za mjini. Ni drama ya kihistoria yenye maelezo mazuri sana ya utamaduni na maisha ya zamani.",
+"poster_url": "https://nawgqawbwmfvhywfvoke.supabase.co/storage/v1/object/public/posters/poster20.jpg",
+"country": "turkey",
+"year": 2021,
+"dj": "Young Money",
+"genres": [
+"Drama",
+"History"
+],
+"tags": [
+"critically acclaimed",
+"new release"
+],
+"created_at": "2026-03-01T16:41:52Z",
+"view_count": 28,
+"download_count": 14,
+"files": [
+{
+"label": "Episode 1 - Kurudi Mtaani",
+"season": 1,
+"episode_number": 1,
+"download_url": "https://www.w3schools.com/html/mov_bbb.mp4"
+},
+{
+"label": "Episode 2 - Kazi Klabuni",
+"season": 1,
+"episode_number": 2,
+"download_url": "https://www.w3schools.com/html/mov_bbb.mp4"
+},
+{
+"label": "Episode 3 - Migogoro ya Ndani",
+"season": 1,
+"episode_number": 3,
+"download_url": "https://www.w3schools.com/html/mov_bbb.mp4"
+},
+{
+"label": "Episode 4 - Maisha Mpya",
+"season": 1,
+"episode_number": 4,
+"download_url": "https://www.w3schools.com/html/mov_bbb.mp4"
+}
+]
+},
+{
+"title": "Inception",
+"type": "movie",
+"description": "Mwizi mtaalamu wa siri za biashara anajipatia umaarufu kwa kuiba habari kutoka kwenye akili za watu wanapokuwa wanalala na kuota ndoto. Anapewa kazi ngumu zaidi ya kupandikiza wazo jipya kwenye akili ya mtoto wa tajiri mkubwa badala ya kuiba siri. Ili kufanya hivyo, analazimika kukusanya timu ya wataalamu na kusafiri ndani ya vilindi vya ndoto ndani ya ndoto. Hii ni sinema ya kusisimua ya kisayansi iliyojaa ubunifu mkubwa na picha za kushangaza.",
+"poster_url": "https://nawgqawbwmfvhywfvoke.supabase.co/storage/v1/object/public/posters/poster1.jpg",
+"country": "usa",
+"year": 2026,
+"dj": "Afro",
+"genres": [
+"Action",
+"Sci-Fi",
+"Adventure"
+],
+"tags": [
+"blockbuster",
+"mind blowing",
+"top rated"
+],
+"created_at": "2026-03-08T17:52:03Z",
+"view_count": 412,
+"download_count": 398,
+"files": [
+{
+"label": "Inception - Part 1",
+"season": null,
+"episode_number": 1,
+"download_url": "https://www.w3schools.com/html/mov_bbb.mp4"
+},
+{
+"label": "Inception - Part 2",
+"season": null,
+"episode_number": 2,
+"download_url": "https://www.w3schools.com/html/mov_bbb.mp4"
+}
+]
+},
+{
+"title": "The Dark Knight",
+"type": "movie",
+"description": "Batman anaendelea na mapambano yake ya kusafisha mji wa Gotham dhidi ya uhalifu akishirikiana na mwanasheria mkuu na kamishna wa polisi. Hata hivyo, usalama wa mji huo unatikiswa vibaya sana na kuibuka kwa mhalifu mpya mwenye akili ya ajabu na ukatili usio na kikomo, Joker. Joker anasababisha fujo kubwa na kulazimisha Batman kupitia majaribio magumu ya kimaadili na binafsi ili kulinda raia. Ni filamu inayochukuliwa kuwa moja ya kazi bora zaidi za mashujaa wa katuni duniani.",
+"poster_url": "https://nawgqawbwmfvhywfvoke.supabase.co/storage/v1/object/public/posters/poster2.jpg",
+"country": "usa",
+"year": 2022,
+"dj": "Ally",
+"genres": [
+"Action",
+"Crime",
+"Drama"
+],
+"tags": [
+"classic",
+"dark",
+"top rated"
+],
+"created_at": "2026-03-15T18:03:14Z",
+"view_count": 490,
+"download_count": 485,
+"files": [
+{
+"label": "The Dark Knight - Part 1",
+"season": null,
+"episode_number": 1,
+"download_url": "https://www.w3schools.com/html/mov_bbb.mp4"
+},
+{
+"label": "The Dark Knight - Part 2",
+"season": null,
+"episode_number": 2,
+"download_url": "https://www.w3schools.com/html/mov_bbb.mp4"
+},
+{
+"label": "The Dark Knight - Part 3",
+"season": null,
+"episode_number": 3,
+"download_url": "https://www.w3schools.com/html/mov_bbb.mp4"
+},
+{
+"label": "The Dark Knight - Part 4",
+"season": null,
+"episode_number": 4,
+"download_url": "https://www.w3schools.com/html/mov_bbb.mp4"
+}
+]
+},
+{
+"title": "Pulp Fiction",
+"type": "movie",
+"description": "Maisha ya wauaji wawili wa kukodisha, bondia mzee anayetafutwa na genge, na mke wa bosi wa uhalifu yanajumuishwa katika hadithi tatu tofauti zinazohusiana. Matukio hayo yanatokea katika ulimwengu wa giza wa Los Angeles uliojaa vurugu, madawa ya kulevya na mazungumzo ya kipekee ya kifalsafa. Mpangilio usio wa kawaida wa muda wa matukio unamfanya mtazamaji kubaki na shauku kubwa mwanzo hadi mwisho. Hii ni filamu ya kitambo iliyoacha athari kubwa katika tasnia ya filamu ulimwenguni.",
+"poster_url": "https://nawgqawbwmfvhywfvoke.supabase.co/storage/v1/object/public/posters/poster3.jpg",
+"country": "usa",
+"year": 2013,
+"dj": "Banza",
+"genres": [
+"Crime",
+"Drama"
+],
+"tags": [
+"cult classic",
+"critically acclaimed"
+],
+"created_at": "2026-03-22T19:14:25Z",
+"view_count": 88,
+"download_count": 72,
+"files": [
+{
+"label": "Full Movie",
+"season": null,
+"episode_number": 1,
+"download_url": "https://www.w3schools.com/html/mov_bbb.mp4"
+}
+]
+},
+{
+"title": "Interstellar",
+"type": "movie",
+"description": "Katika siku za usoni ambapo Dunia inakabiliwa na uharibifu mkubwa wa chakula na mazingira, maisha ya binadamu yapo hatarini kutoweka kabisa. Kikundi cha wanaanga kinasafiri kupitia tundu la minyoo angani ili kutafuta sayari mpya inayoweza kufaa kwa maisha ya binadamu. Rubani mmoja wa zamani analazimika kuziacha familia yake na binti yake mdogo nyuma ili kuongoza operesheni hiyo ya hatari sana. Ni filamu yenye hisia kali na maarifa ya kisayansi kuhusu muda, nafasi na upendo wa kifamilia.",
+"poster_url": "https://nawgqawbwmfvhywfvoke.supabase.co/storage/v1/object/public/posters/poster4.jpg",
+"country": "usa",
+"year": 2025,
+"dj": "Black",
+"genres": [
+"Sci-Fi",
+"Adventure",
+"Drama"
+],
+"tags": [
+"mind blowing",
+"popular",
+"must watch"
+],
+"created_at": "2026-03-29T20:25:36Z",
+"view_count": 420,
+"download_count": 405,
+"files": [
+{
+"label": "Full Movie",
+"season": null,
+"episode_number": 1,
+"download_url": "https://www.w3schools.com/html/mov_bbb.mp4"
+}
+]
+},
+{
+"title": "Avatar",
+"type": "movie",
+"description": "Askari mlemavu wa zamani anasafiri kwenda kwenye sayari ya mbali ya Pandora ambapo binadamu wanajaribu kuchimba madini ya thamani kubwa. Ili kuwasiliana na wenyeji wa sayari hiyo, anatumia mwili wa kipekee unaofanana nao kupitia teknolojia ya kisasa. Anakabiliwa na mtihani mkubwa pale anapojikuta akipendana na msichana wa kienyeji na kuanza kupigania haki za sayari hiyo dhidi ya uvamizi wa wanajeshi wa binadamu. Ni sinema iliyoweka viwango vipya vya picha za kompyuta na hadithi ya kiikolojia.",
+"poster_url": "https://nawgqawbwmfvhywfvoke.supabase.co/storage/v1/object/public/posters/poster5.jpg",
+"country": "usa",
+"year": 2022,
+"dj": "Carlos",
+"genres": [
+"Action",
+"Adventure",
+"Fantasy"
+],
+"tags": [
+"blockbuster",
+"trending"
+],
+"created_at": "2026-04-05T21:36:47Z",
+"view_count": 310,
+"download_count": 290,
+"files": [
+{
+"label": "Full Movie",
+"season": null,
+"episode_number": 1,
+"download_url": "https://www.w3schools.com/html/mov_bbb.mp4"
+}
+]
+},
+{
+"title": "Breaking Bad",
+"type": "series",
+"description": "Mwalimu wa kemia wa shule ya sekondari anagundua kuwa ana ugonjwa wa saratani ya mapafu na muda wake wa kuishi ni mchache sana. Ili kuhakikisha usalama wa kifedha wa familia yake baada ya kufa, anaamua kutumia ujuzi wake kutengeneza na kuuza dawa za kulevya za hali ya juu. Anashirikiana na mwanafunzi wake wa zamani na kujikuta akiingia kwenye ulimwengu hatari wa magenge ya wahalifu na mauaji. Huu ni mfululizo maarufu sana unaoonyesha mabadiliko ya mwanadamu kutoka mwema hadi kuwa dhalimu.",
+"poster_url": "https://nawgqawbwmfvhywfvoke.supabase.co/storage/v1/object/public/posters/poster6.jpg",
+"country": "usa",
+"year": 2024,
+"dj": "Choka",
+"genres": [
+"Crime",
+"Drama",
+"Thriller"
+],
+"tags": [
+"top rated",
+"cult classic",
+"binge worthy"
+],
+"created_at": "2026-04-12T22:47:58Z",
+"view_count": 498,
+"download_count": 495,
+"files": [
+{
+"label": "Episode 1 - Masomo ya Kwanza",
+"season": 1,
+"episode_number": 1,
+"download_url": "https://www.w3schools.com/html/mov_bbb.mp4"
+},
+{
+"label": "Episode 2 - Ushirikiano wa Siri",
+"season": 1,
+"episode_number": 2,
+"download_url": "https://www.w3schools.com/html/mov_bbb.mp4"
+},
+{
+"label": "Episode 3 - Part A",
+"season": 1,
+"episode_number": 3,
+"download_url": "https://www.w3schools.com/html/mov_bbb.mp4"
+},
+{
+"label": "Episode 3 - Part B",
+"season": 1,
+"episode_number": 3,
+"download_url": "https://www.w3schools.com/html/mov_bbb.mp4"
+},
+{
+"label": "Episode 4 - Hatari ya Kujificha",
+"season": 1,
+"episode_number": 4,
+"download_url": "https://www.w3schools.com/html/mov_bbb.mp4"
+}
+]
+},
+{
+"title": "Stranger Things",
+"type": "series",
+"description": "Wakati kijana mdogo anapotoweka ghafla katika mji mdogo wa Indiana, marafiki zake, familia yake na polisi wa eneo hilo wanaanza uchunguzi wa siri. Wanagundua majaribio ya siri ya serikali, nguvu za ajabu za kisayansi, na msichana mdogo mwenye nguvu za kipekee za akili. Kundi hilo linapaswa kupambana na viumbe vya kutisha vinavyotoka ulimwengu mwingine wa giza ili kumrudisha rafiki yao salama. Ni hadithi ya kusisimua sana yenye hisia za miaka ya themanini na urafiki wa dhati.",
+"poster_url": "https://nawgqawbwmfvhywfvoke.supabase.co/storage/v1/object/public/posters/poster7.jpg",
+"country": "usa",
+"year": 2022,
+"dj": "J4",
+"genres": [
+"Sci-Fi",
+"Horror",
+"Drama"
+],
+"tags": [
+"trending",
+"fan favorite",
+"blockbuster"
+],
+"created_at": "2026-04-19T05:58:09Z",
+"view_count": 480,
+"download_count": 460,
+"files": [
+{
+"label": "Episode 1 - Kutoweka kwa Will",
+"season": 1,
+"episode_number": 1,
+"download_url": "https://www.w3schools.com/html/mov_bbb.mp4"
+},
+{
+"label": "Episode 2 - Msichana wa Ajabu",
+"season": 1,
+"episode_number": 2,
+"download_url": "https://www.w3schools.com/html/mov_bbb.mp4"
+},
+{
+"label": "Episode 3 - Siri ya Maabara",
+"season": 1,
+"episode_number": 3,
+"download_url": "https://www.w3schools.com/html/mov_bbb.mp4"
+},
+{
+"label": "Episode 4 - Ulimwengu wa Giza",
+"season": 1,
+"episode_number": 4,
+"download_url": "https://www.w3schools.com/html/mov_bbb.mp4"
+}
+]
+},
+{
+"title": "Game of Thrones",
+"type": "series",
+"description": "Familia tisa za kifalme zinapigana vikali ili kudhibiti Kiti cha Enzi cha Chuma cha nchi ya Westeros wakati wa msimu wa bariri mrefu unaokaribia. Wakati migogoro ya kisiasa na usaliti wa kijeshi vikitawala maeneo mengi, adui wa kale wa kutisha anajiandaa kuibuka kaskazini mwa ukuta kulinda wafu wote. Mapambano ya madaraka, mbweha wakubwa, na uchawi wa kale vinakutana katika hadithi hii ya kusisimua ya kihistoria na ya kubuni. Huu ni mfululizo uliopata umaarufu mkubwa sana wa kimataifa.",
+"poster_url": "https://nawgqawbwmfvhywfvoke.supabase.co/storage/v1/object/public/posters/poster8.jpg",
+"country": "usa",
+"year": 2023,
+"dj": "Juma Khan",
+"genres": [
+"Action",
+"Adventure",
+"Fantasy"
+],
+"tags": [
+"blockbuster",
+"popular",
+"binge worthy"
+],
+"created_at": "2026-04-26T06:09:20Z",
+"view_count": 495,
+"download_count": 485,
+"files": [
+{
+"label": "Episode 1 - Majira ya Baridi Yanakuja",
+"season": 1,
+"episode_number": 1,
+"download_url": "https://www.w3schools.com/html/mov_bbb.mp4"
+},
+{
+"label": "Episode 2 - Barabara ya Kifalme",
+"season": 1,
+"episode_number": 2,
+"download_url": "https://www.w3schools.com/html/mov_bbb.mp4"
+},
+{
+"label": "Episode 3 - Lord Snow",
+"season": 1,
+"episode_number": 3,
+"download_url": "https://www.w3schools.com/html/mov_bbb.mp4"
+},
+{
+"label": "Episode 4 - Walemavu, Waasi na Vitu Vilivyovunjika",
+"season": 1,
+"episode_number": 4,
+"download_url": "https://www.w3schools.com/html/mov_bbb.mp4"
+}
+]
+},
+{
+"title": "Succession",
+"type": "series",
+"description": "Wakati afya ya mmiliki wa kampuni kubwa zaidi ya vyombo vya habari duniani inapoanza kuzorota, watoto wake wanne wanaanza mapambano ya chini kwa chini kugombea madaraka. Kila mtoto anajaribu kudhihirisha uwezo wake na kupata uaminifu wa baba yao mkali huku wakisalitiana wao kwa wao. Uhusiano wa kifamilia unaharibiwa kabisa na tamaa ya mali, mamlaka na hadhi ya kijamii katika ulimwengu wa juu wa biashara. Ni drama ya kuvutia na yenye ucheshi wa giza inayochambua familia tajiri sana.",
+"poster_url": "https://nawgqawbwmfvhywfvoke.supabase.co/storage/v1/object/public/posters/poster9.jpg",
+"country": "usa",
+"year": 2023,
+"dj": "Kingononga",
+"genres": [
+"Drama"
+],
+"tags": [
+"critically acclaimed",
+"award winning"
+],
+"created_at": "2026-05-03T07:20:31Z",
+"view_count": 72,
+"download_count": 60,
+"files": [
+{
+"label": "Episode 1 - Sherehe ya Kuzaliwa",
+"season": 1,
+"episode_number": 1,
+"download_url": "https://www.w3schools.com/html/mov_bbb.mp4"
+},
+{
+"label": "Episode 2 - Kugombea Kiti",
+"season": 1,
+"episode_number": 2,
+"download_url": "https://www.w3schools.com/html/mov_bbb.mp4"
+},
+{
+"label": "Episode 3 - Maamuzi ya Bodi",
+"season": 1,
+"episode_number": 3,
+"download_url": "https://www.w3schools.com/html/mov_bbb.mp4"
+},
+{
+"label": "Episode 4 - Mkakati wa Kisiri",
+"season": 1,
+"episode_number": 4,
+"download_url": "https://www.w3schools.com/html/mov_bbb.mp4"
+}
+]
+},
+{
+"title": "Wednesday",
+"type": "series",
+"description": "Binti mkaidi na mwenye tabia za kipekee za giza wa familia ya Addams anasajiliwa kusoma kwenye shule maalum ya watoto wenye vipaji vya ajabu ya Nevermore Academy. Huko, anajikuta akijaribu kudhibiti uwezo wake mpya wa kiakili huku akichunguza mfululizo wa mauaji ya kutisha yanayotokea katika mji wa karibu. Anapata marafiki na maadui wapya wakati akitafuta siri nzito inayohusisha wazazi wake tanzu miaka ishirini na tano iliyopita. Ni mfululizo wa kusisimua wenye ucheshi mweusi na mafumbo ya kuvutia.",
+"poster_url": "https://nawgqawbwmfvhywfvoke.supabase.co/storage/v1/object/public/posters/poster10.jpg",
+"country": "usa",
+"year": 2022,
+"dj": "Lufufu",
+"genres": [
+"Comedy",
+"Fantasy",
+"Mystery"
+],
+"tags": [
+"trending",
+"feel good",
+"binge worthy"
+],
+"created_at": "2026-05-10T08:31:42Z",
+"view_count": 430,
+"download_count": 412,
+"files": [
+{
+"label": "Episode 1 - Mtoto wa Alhamisi",
+"season": 1,
+"episode_number": 1,
+"download_url": "https://www.w3schools.com/html/mov_bbb.mp4"
+},
+{
+"label": "Episode 2 - Ole Wake Aliyetengwa",
+"season": 1,
+"episode_number": 2,
+"download_url": "https://www.w3schools.com/html/mov_bbb.mp4"
+},
+{
+"label": "Episode 3 - Rafiki au Adui",
+"season": 1,
+"episode_number": 3,
+"download_url": "https://www.w3schools.com/html/mov_bbb.mp4"
+},
+{
+"label": "Episode 4 - Giza la Nevermore",
+"season": 1,
+"episode_number": 4,
+"download_url": "https://www.w3schools.com/html/mov_bbb.mp4"
+}
+]
+}
+]
+}
